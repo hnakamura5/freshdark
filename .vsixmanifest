@@ -3,7 +3,7 @@
   xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" 
   xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="freshdark" Version="1.1.1" Publisher="cometeer"/>
+    <Identity Language="en-US" Id="freshdark" Version="0.1.0" Publisher="hnakamura5"/>
     <DisplayName>FreshDark</DisplayName>
     <Description xml:space="preserve">Spacemacs themes for Visual Studio Code</Description>
     <Tags>color-theme,dark</Tags>
