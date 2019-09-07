@@ -1,0 +1,28 @@
+{
+	"name": "freshdark",
+	"displayName": "FreshDark",
+	"description": "FreshDark themes for Visual Studio Code",
+	"version": "0.0.1",
+	"publisher": "hnakamura5",
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "FreshDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/FreshDark.json"
+			}
+		]
+	},
+	"keywords": [
+		"vs-code",
+		"theme"
+	],
+	"author": "hnakamura5",
+	"license": "MIT"
+}
